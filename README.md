@@ -2,7 +2,7 @@
 
 > 티스토리 / 깃 허브 ghgit1798님 파일 참조 
 > https://github.com/ghgit1798
-><br>  https://western-sky.tistory.com/
+><br>https://western-sky.tistory.com/
 
 ----
 * 메인 창 
