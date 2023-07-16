@@ -1,7 +1,7 @@
 # Clone 코딩 Python Django를 이용한 맥주 추천 서비스 배포 
 
 > 티스토리 / 깃 허브 ghgit1798님 파일 참조 
-> https://github.com/ghgit1798
+> <br>https://github.com/ghgit1798
 ><br>https://western-sky.tistory.com/
 
 ----
