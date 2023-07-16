@@ -6,23 +6,23 @@
 
 ----
 * 메인 창 
-![맥주정보](../image/beer_info.png)
+![맥주정보](./image/beer_info.png)
 
 ---
 * 취향에 따른 맥주 선호도<br>
-![맥주선택](../image/beer_select.png)
+![맥주선택](./image/beer_select.png)
 
 ----
 
 * 맥주 추천 서비스 <br>
-![맥주1](../image/beer1.png)
+![맥주1](./image/beer1.png)
 ---
 * 맥주 클러스터링 시각화 <br>
 ![맥주2](./image/beer2.png)
 -----
 * 추천 맥주의 연도별 평점 트렌드 <br>
 
-![맥주3](../image/beer3.png)
+![맥주3](./image/beer3.png)
 
 ---- 
 
